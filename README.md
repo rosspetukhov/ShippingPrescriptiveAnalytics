@@ -16,4 +16,4 @@ Step 4. Incorporate the results in existing Power BI reporting and refresh the m
 
 Note: the data used in the repository is made-up to avoid sharing corporate data. It is based on a real-life business case, so the approach can be applied to any business that is facing the same challenge. 
 
-![ShippingPrescriptiveAnalytics](https://github.com/rosspetukhov/rosspetukhov/ShippingPrescriptiveAnalytics/blob/main/ShippingPrescriptiveAnalytics.jpg)
+![ShippingPrescriptiveAnalytics](https://github.com/rosspetukhov/ShippingPrescriptiveAnalytics/blob/main/ShippingPrescriptiveAnalytics.jpg)
