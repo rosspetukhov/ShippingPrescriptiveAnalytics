@@ -15,4 +15,4 @@ Step 3. Categorize all routes using the developed module and provide results to 
 Step 4. Incorporate the results in existing Power BI reporting and refresh the model/reapply lane cateogires every 3 month. 
 
 Note: the data used in the repository is made-up to avoid sharing corporate data. It is based on a real-life business case, so the approach can be applied to any business that is facing the same challenge. 
-![ShippingPrescriptiveAnalytics](https://github.com/rosspetukhov/rosspetukhov/ShippingPrescriptiveAnalytics/blob/ShippingPrescriptiveAnalytics.jpg)
+![ShippingPrescriptiveAnalytics](https://github.com/rosspetukhov/rosspetukhov/ShippingPrescriptiveAnalytics/blob/main/ShippingPrescriptiveAnalytics.jpg)
