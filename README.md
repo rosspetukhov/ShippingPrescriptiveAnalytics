@@ -11,7 +11,7 @@ My workflow was following:
 1. Step 1. Gather data for all routes using SQL. 
 1. Step 2. Develop a Machine Learning model based to categorize labelled data using Python. 
 1. Step 3. Categorize all routes using the developed module and provide results to the operational team as csv.
-1. Step 4. Incorporate the results in existing Power BI reporting and refresh the model/reapply lane cateogires every 3 month. 
+1. Step 4. Incorporate the results in existing Power BI reporting and refresh the model/re-apply lane cateogires every 3 month. 
 
 *Note: the data used in the repository is made-up to avoid sharing corporate data. It is based on a real-life business case, so the approach can be applied to any business that is facing the same challenge.*
 
