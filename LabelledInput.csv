@@ -1,0 +1,121 @@
+﻿Route,ProductImportance,CustomerImportance,SpecialCase?,RouteCategory
+1,D,0,No,Low Importance
+2,C,1,No,Medium Importance
+3,C,0,No,Low Importance
+4,E,1,Yes,Special
+5,C,2,No,High Importance
+6,A,2,No,High Importance
+7,D,0,No,Low Importance
+8,E,0,Yes,Special
+9,E,1,No,Medium Importance
+10,B,2,No,High Importance
+11,B,2,No,High Importance
+12,D,0,No,Low Importance
+13,B,0,No,Medium Importance
+14,D,1,No,Medium Importance
+15,E,2,No,High Importance
+16,B,2,No,High Importance
+17,D,2,No,High Importance
+18,A,2,No,High Importance
+19,E,0,No,Low Importance
+20,C,0,No,Low Importance
+21,A,2,No,High Importance
+22,D,2,No,High Importance
+23,C,0,No,Low Importance
+24,E,0,No,Low Importance
+25,C,0,No,Low Importance
+26,B,0,No,Medium Importance
+27,E,2,No,High Importance
+28,E,0,Yes,Special
+29,E,0,No,Low Importance
+30,A,0,No,High Importance
+31,D,0,No,Low Importance
+32,A,2,No,High Importance
+33,D,1,No,Medium Importance
+34,D,1,No,Medium Importance
+35,A,0,No,High Importance
+36,A,1,Yes,Special
+37,B,2,No,High Importance
+38,A,1,Yes,Special
+39,D,0,No,Low Importance
+40,D,2,No,High Importance
+41,D,0,No,Low Importance
+42,B,0,No,Medium Importance
+43,C,0,No,Low Importance
+44,A,2,No,High Importance
+45,B,1,No,Medium Importance
+46,A,1,No,High Importance
+47,E,1,No,Medium Importance
+48,C,1,No,Medium Importance
+49,E,1,No,Medium Importance
+50,C,0,No,Low Importance
+51,B,0,No,Medium Importance
+52,C,0,No,Low Importance
+53,C,2,No,High Importance
+54,D,1,No,Medium Importance
+55,D,0,No,Low Importance
+56,E,0,No,Low Importance
+57,A,2,No,High Importance
+58,B,2,No,High Importance
+59,B,2,No,High Importance
+60,D,1,No,Medium Importance
+61,C,1,No,Medium Importance
+62,E,0,No,Low Importance
+63,D,2,No,High Importance
+64,D,1,No,Medium Importance
+65,D,2,No,High Importance
+66,D,1,No,Medium Importance
+67,B,0,No,Medium Importance
+68,E,1,No,Medium Importance
+69,E,2,No,High Importance
+70,A,0,No,High Importance
+71,A,0,No,High Importance
+72,D,0,No,Low Importance
+73,C,2,Yes,Special
+74,C,2,No,High Importance
+75,E,2,No,High Importance
+76,A,0,No,High Importance
+77,D,0,No,Low Importance
+78,A,1,Yes,Special
+79,E,2,No,High Importance
+80,A,1,Yes,Special
+81,E,2,No,High Importance
+82,C,1,No,Medium Importance
+83,C,1,No,Medium Importance
+84,E,2,No,High Importance
+85,B,1,No,Medium Importance
+86,E,1,No,Medium Importance
+87,B,0,No,Medium Importance
+88,B,0,Yes,Special
+89,C,1,No,Medium Importance
+90,E,1,No,Medium Importance
+91,E,1,No,Medium Importance
+92,C,0,Yes,Special
+93,B,1,No,Medium Importance
+94,A,2,No,High Importance
+95,D,2,No,High Importance
+96,A,0,No,High Importance
+97,B,1,No,Medium Importance
+98,E,2,No,High Importance
+99,D,2,No,High Importance
+100,B,2,Yes,Special
+101,B,2,No,High Importance
+102,E,2,No,High Importance
+103,E,0,No,Low Importance
+104,A,0,No,High Importance
+105,A,1,No,High Importance
+106,D,2,No,High Importance
+107,C,2,No,High Importance
+108,C,0,No,Low Importance
+109,E,0,No,Low Importance
+110,A,1,No,High Importance
+111,D,0,No,Low Importance
+112,A,1,No,High Importance
+113,C,2,No,High Importance
+114,B,2,No,High Importance
+115,C,0,No,Low Importance
+116,C,1,Yes,Special
+117,D,2,Yes,Special
+118,C,1,No,Medium Importance
+119,C,2,No,High Importance
+120,B,3,No,Medium Importance
